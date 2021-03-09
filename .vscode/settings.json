@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "chibicc.h": "c",
+        "__config": "cpp",
+        "__functional_03": "cpp",
+        "functional": "cpp",
+        "locale": "cpp",
+        "glob.h": "c",
+        "errno.h": "c"
+    }
+}
