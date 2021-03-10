@@ -4,7 +4,7 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "verify",
+            "label": "build",
             "type": "shell",
             "command": "gcc -Wno-switch -Wno-format *.c",
             "group": {
